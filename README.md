@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Oilkibonft
-- 👀 I’m interested in Art, Animal
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Oilkibonft 
+- 👀 I’m interested in Art, Animal 
+- 🐶 I created NFT "Mid Way Dog" for my lovely dog who stay with me
+- 📫 Contact Me: https://twitter.com/MidWayDog1
 
 <!---
 Oilkibonft/Oilkibonft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
